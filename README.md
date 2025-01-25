@@ -1,6 +1,6 @@
 FreeRTOS ported to Raspberry Pi 3 (64bit)
 
-I have not yte test on real hardware yet.
+I have not yet tested on real hardware.
 
 I test with QEMU 6.1.0
 
@@ -20,6 +20,6 @@ hello world
 00000000000001F6
 ```
 
-This port based on Xilinx Cortex-A53 port.
+This port is based on the Xilinx Cortex-A53 port.
 
 
